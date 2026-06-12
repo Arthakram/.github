@@ -25,43 +25,45 @@ We don't just study strategy — we execute it.
 
 ## 🎯 What We Do
 
-- **Product Building** — From ideation to MVP, our teams ship real, working products
-- - **Business Analysis** — Deep dives into business models, case competitions, and market strategy
-  - - **Framework Development** — Developing reusable playbooks and consulting frameworks
-    - - **Competition Circuit** — Representing Rishihood at national-level case & product competitions
-     
-      - ---
+| Area | Description |
+|------|-------------|
+| 🏗️ **Product Building** | From ideation to MVP, our teams ship real, working products |
+| 📊 **Business Analysis** | Deep dives into business models, case competitions, and market strategy |
+| 📐 **Framework Development** | Developing reusable playbooks and consulting frameworks |
+| 🏆 **Competition Circuit** | Representing Rishihood at national-level case & product competitions |
 
-      ## 🛠️ Our Projects
+---
 
-      This organization hosts all central Arthakram projects — open-source tools, internal frameworks, and member-led builds. Browse our repositories to see what we're building.
+## 🛠️ Our Projects
 
-      ---
+This organization hosts all central Arthakram projects — open-source tools, internal frameworks, and member-led builds. Browse our repositories to see what we're building.
 
-      ## 🤝 Get Involved
+---
 
-      We're a community of builders, thinkers, and doers.
+## 🤝 Get Involved
 
-      - **Students at Rishihood?** Reach out to join the club
-      - - **Want to collaborate?** Drop us an email at [arthakram@rishihood.edu.in](mailto:arthakram@rishihood.edu.in)
-        - - **Follow our work** by watching this org and starring repos you find useful
-         
-          - ---
+We're a community of builders, thinkers, and doers.
 
-          ## 📬 Connect With Us
+- 🎓 **Students at Rishihood?** Reach out to join the club
+- - 🤝 **Want to collaborate?** Drop us an email at [arthakram@rishihood.edu.in](mailto:arthakram@rishihood.edu.in)
+  - - ⭐ **Follow our work** by watching this org and starring repos you find useful
+   
+    - ---
 
-          | Platform | Link |
-          |----------|------|
-          | 💼 LinkedIn | [linkedin.com/company/arthakram](https://in.linkedin.com/company/arthakram) |
-          | 📧 Email | [arthakram@rishihood.edu.in](mailto:arthakram@rishihood.edu.in) |
-          | 🌐 Location | India |
+    ## 📬 Connect With Us
 
-          ---
+    | Platform | Link |
+    |----------|------|
+    | 💼 LinkedIn | [linkedin.com/company/arthakram](https://in.linkedin.com/company/arthakram) |
+    | 📧 Email | [arthakram@rishihood.edu.in](mailto:arthakram@rishihood.edu.in) |
+    | 🌐 Location | India |
 
-          <div align="center">
+    ---
 
-          *Real problems. Real solutions. Real impact.*
+    <div align="center">
 
-          **© Arthakram · Rishihood University**
+    *Real problems. Real solutions. Real impact.*
 
-          </div>
+    **© Arthakram · Rishihood University**
+
+    </div>
